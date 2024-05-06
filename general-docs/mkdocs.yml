@@ -1,6 +1,10 @@
-site_name: Documentacion general - Facelad
+site_name: Documentacion - Facelad
 
 theme: minty
+
+extra:
+  favicon: "img/favicon.ico"
+  logo: "img/logo.png"
 
 nav:
   - Home: index.md
