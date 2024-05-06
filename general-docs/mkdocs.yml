@@ -1,0 +1,9 @@
+site_name: Documentacion general - Facelad
+
+theme: minty
+
+nav:
+  - Home: index.md
+  # - About: about.md
+  - ¿Que es un hosting?: hosting.md
+  - ¿Que es un dominio?: domain.md
