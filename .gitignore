@@ -136,7 +136,8 @@ venv.bak/
 .ropeproject
 
 # mkdocs documentation
-/site
+# Vamos a necesitar tener la carpeta site ya que alli se va a desplegar en github pages
+# /site
 
 # mypy
 .mypy_cache/
